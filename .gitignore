@@ -4,3 +4,13 @@ __pycache__/*
 data/*
 problem_unittests.py
 requirements.txt
+
+.floydexpt
+.floydignore
+
+command.sh
+
+params.p
+save.data-00000-of-00001
+save.index
+save.meta
